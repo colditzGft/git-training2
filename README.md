@@ -8,4 +8,7 @@ cambio4
 cambio5
 
 Ejercicio3
-cambio1
+cambio6
+
+EjercicioGFT
+cambio7
